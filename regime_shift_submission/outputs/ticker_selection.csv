@@ -1,0 +1,5 @@
+series,ticker
+Equity_NSE,^NSEI
+Bond,GILT5YBEES.NS
+Gold,GOLDBEES.NS
+VIX,^INDIAVIX
